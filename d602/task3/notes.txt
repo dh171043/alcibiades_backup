@@ -1,0 +1,8 @@
+# show docker build command
+# docker run
+# open up localhost 8000
+# 
+docker build --no-cache -t delay_api .
+docker run -p 8000:80 delay_api
+ http://localhost:8000/
+ http://localhost:8000/docs
