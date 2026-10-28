@@ -1,0 +1,59 @@
+d100,item,rarity,properties,components
+1–2,Adventurer's Cape,Common,"Once every session, gain Advantage on an Inspire Check.",Jackalrabbit Fur
+3–4,Angler Arrows,Common,Usage Die: 1d20. +1 Attack with bows.,Arrowhead Angler
+5–6,Batweave Cloak,Rare,"Wearer appears almost invisible in darkness, gaining Advantage on Sneak Checks in such conditions.",Muckland Bat Wing; Wolf Pelt
+7–8,Bogril Bone Shield,Common,Large Shield. +1 Block,Used T'Be Tiger Bones; Bogril Tortoise Shell
+9–10,Bugbear Greatsword,Common,"Once every Combat, on a Counterattack Hit, disarm the target's weapon.",Koogra Claw; Bugbear Metal
+11–12,Canker Spear,Common,[charge] [beastly],Cankerboar Tusks; Huxwood
+13–14,Crag Scale Boots,Common,Piecemeal Armor. +1 Block,Crag Lizard Scales; Mountain Tooth
+15–16,Crimsonhook Caltrops,Rare,"1d10 Usage Die. When stepped on, targets suffer 1d4 Dread and become Slowed.",Crimsonhook; Glassbeam
+17,Dazzling Silver Ring,Common,"Once every session, gain Advantage on a Charm Check.",Dwimmersteel
+18–19,Deep Quag Devil Armor,Common,Light Armor. [grim],Deep Quag Devil
+20,Dozing Arrow,Rare,"Any target struck outside of Combat dozes off to sleep for 1d10 minutes. In Combat, the target becomes Tired.",Skeeter Needle; Whiteflame
+21–22,Dwimmerscale Shield,Common,Small Shield. [mirrored],Dwimmerscale Shad
+23–24,Flying Fang Daggers,Rare,"5 Daggers. Ranged weapon, undetectable when hidden on PC. 0 Slot items.",Ryzophant Fang; Ur Steel
+25,Garish Amulet,Common,Peasants regard the wearer as royalty.,Goblin Alloy; Bandy Clam Pearl
+26–27,Gatorbird Sickles,Common,+1 Dread when dual wielded.,Bunglewood; Owligator Talon
+28,Glittering Gold Ring,Common,"Once every session, gain Advantage on a Trickery Check.",Gold Ore
+29,Glowing Tool,Common,Create any tool with [glow]: item can light up like a torch for 1 hour per day.,Glowing Toad Shrimp
+30–31,Helm of the Great Stag,Rare,"Piecemeal Armor. Intimidate Check: Each session, pacify a hostile critter.",Great Stag Antler; Adamant
+32,Highborn Pendant,Common,Royalty regard the wearer as a fellow noble.,Gold Ore; Greyglitter Ore
+33–34,Hookclaw Mancatcher,Rare,"[entangle] Once every Combat, on a 6+ Hit, Entangle a large or smaller target.",Crawlbad Claw; Huxwood
+35–36,Kaleidoscorpion Flail,Rare,"Once every Combat, on a 9+ Hit, the target is Paralyzed.",Kaleidoscorpion Tail; Dunhamite Chip
+37–38,Koogra Axe,Common,[reach],Koogra Claw; Garganite Chip
+39,Liger Shark Helm,Common,Piecemeal Armor. Breathe underwater while worn.,Liger Shark Jaw; Goblin Alloy
+40,Lucky Sharktooth Necklace,Common,"Once every session, gain Advantage on a Wilderness Check.",Liger Shark Jaw
+41–42,Magnificent Climbing Gloves,Common,Gain Proficiency in Climbing while worn.,Keestersnap Pincers; Creep Thistle
+43–44,Magnificent Fishing Rod,Common,+1 to Fishing Checks.,Sticky Wickle Vines; Quagbirch
+45–46,Magnificent String Instrument,Common,"In the hands of a Bard, Invigorate heals +1 Courage.",Pocket Fiddler Silk; Wurlwood
+47–48,Magnificent Swimming Pantaloons,Common,Gain Proficiency in Swimming while worn.,Hippogruff Hide; Rindle Ram Fin
+49–50,Orch Iron Halberd,Common,[cleave] +2 Dread.,Orch Iron; Krowl Beak
+51–52,Outrider's Cloak,Common,"Once every session, gain Advantage on an Intimidate Check.",Wolf Pelt; Blackburr
+53–54,Pocket Bow,Common,[quick] Can't attack Distant targets. 1 Slot.,Pocket Fiddler Silk; Bunglewood
+55–56,Prickly Leather Bracers,Rare,Piecemeal Armor. Misses against the wearer inflict 1 Dread to the attacker (ignores Block).,Skeeter Needle; Stickercloud
+57–58,Ramgore Hammer,Common,"[bonk] Once every Combat, a Hit target becomes Stunned.",Ramgore Horns; Cumberstone
+59–60,Ranger Boots,Common,"Once every session, gain Advantage on a Sneak Check.",Thornhawk Feathers; Wungalope Fur
+61–62,Razorfin Rapier,Common,"[quick] Once every Combat, disarm a Goon.",Dancing Razorfin
+63–64,Reptilian Leggings,Common,Piecemeal Armor. Gain +1 to Resist Wounds.,Silt Serpent Skin; Crag Lizard Scales
+65–66,Rubbery Morb Shield,Rare,Large Shield. Inflict Blocked Dread back to the attacker.,Morb Bark; Sinkworm Tallow
+67,Serpentsilk Tunic,Rare,Light Armor. +1 Block.,Pocket Fiddler Silk; Silt Serpent Skin
+68,Sharpfin Armor,Rare,Medium Armor. Attackers suffer 1 Dread when they Hit the wearer (ignores Block).,Emerald Sharpfin
+69–70,Snagtooth Shiv,Common,[bleed],Snagbunny Tooth
+71–72,Spiked Boots,Common,"Once every Combat, kick as a free Attack. On a Hit, inflict Dread with Disadvantage.",Slurpworm Teeth; Gelk Hide
+73–74,Spongey Bandages,Common,Cures Bleeding and heals 1d4 Courage.,Muckroot; Spongey Wheeler
+75–76,Spiraled Main Gauche,Common,[parry] +1 Block.,Guardvark Bones; Narsquall
+77–78,Stabby Needle,Common,"+1 Dread. Once every Combat, a Rascal gains Advantage on an Attack.",Quillrat Needles
+79–80,Starfell Spyglass,Common,See objects in detail up to a mile away. Gain Advantage on Search Checks to see hidden Adversaries.,Starfell Shard; Glassbeam
+81–82,Sticker Snare,Common,Trap that Entangles the target. Small Adversaries suffer Disadvantage to escaping.,Sticky Wickle Vines; Goblin Alloy
+83,Swiftstrike Gloves,Rare,"Once every Combat, attack an additional time in a round.",Jackalrabbit Fur
+84–85,Thieves' Tools,Common,+1 when picking locks.,Quillrat Needles; Greyglitter Ore
+86,Thunderhorn Pauldrons,Rare,Piecemeal Armor. Attackers suffer 1 Dread when they Hit the wearer (ignores Block).,Thunderhorn Horn; Bugbear Metal
+87,Tiger Bone Shield,Rare,Medium Shield. Blocks Dread with Advantage.,Used T'Be Tiger Bones; Felmog Iron
+88,Troll Armor,Rare,Heavy Armor. Heal 1 Courage at the beginning of every Combat round.,Troll Bark; Morb Bark; Sunderslab Fragment
+89,Welkin Armor,Common,Medium Armor. 0 Slots,Featherflint; Gulliath Feathers
+90,Wingspan Cloak,Common,Safely glide from high places.,Thornhawk Feathers; Muckland Bat Wing
+91–92,Wire Worm Saw,Common,Saw through objects as tough as stone or steel.,Wire Worm
+93–94,Wooly Armor,Common,Medium Armor. No penalty to Sneak Checks.,Hippogruff Hide; Wungalope Fur
+95–96,Wyrmfish Scale Pauldrons,Common,Piecemeal Armor. [repellent],Wyrmfish; Gelk Hide
+97–98,Wyrmtail Rope,Common,[superb] 100 feet of rope. 1 Slot.,Wyrmtail Vine; Elder Root
+99–100,Yowljack Bow,Common,Gain +1 Attack if base Attack is +1 or less.,Ironwold Root; Owligator Talon

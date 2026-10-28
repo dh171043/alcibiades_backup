@@ -1,0 +1,52 @@
+d100,item,effect,ingredients
+1–2,Bandy Clam Chowder,Heal 1d6 Courage,Bandy Clam Pearl
+3–4,Biter Bisque,Inflict +1 Dread for the session.,Hand Biter
+5–6,Blackened Mungfish,See in the dark for the session.,Luminous Mungfish
+7–8,Bogflower Tea,Gain +2 to Healing rolls for the session.,Bogflower
+9–10,Boiled Crawlbad,Heal 2d4 Courage.,Crawlbad Claw; Juvenile Crawlbad
+11–12,Bubble Carp Tea,Gain +1 Realms for the session.,Bubble Carp
+13–14,Caramelized Merga Slime,Heal 2 Courage.,Merga Toad Slime
+15–16,Crag Lizard Steak,Heal 1d10 Courage.,Crag Lizard Scales
+17–18,Dragon Spice Donut,Heal Courage with Advantage for the session.,Dragon Lily
+19–20,Dreamwake Tea,"When PC sleeps, they and GM roleplay a dream scenario involving an aspect of their Character Story.",Dreamwake
+21–22,Dried Warbler Sticks,1d8 Usage Die instead of 1d6.,Man-Eating Warbler
+23–24,Dweorg Cheese,"Repels dweorgs, kobolds, and ettins. If such creatures wish to chase someone with the cheese, they must make a Mettle Check to do so. Rats, on the other hand, love it.",Dweorgbane
+25–26,Elder Root Beer,Ask the GM a question about a subject and see a murky vision of the future.,Elder Root
+27–28,Ettin Blood Sausage,Gain Advantage on Might Checks for 1d4 hours.,Ettinsblood; Cankerboar Tusks
+29–30,Fiddler String Cheese,Gain +1 Courage for the session.,Pocket Fiddler Silk
+31–32,Filleted Gentleman,Gain +1 Charm for the session.,Whiskered Gentleman
+33–34,Fireback Stew,"Naturally spicy and probably going to burn coming out, but feeds +6 people.",Freshwater Fireback
+35–36,Fried Piker,Gain immunity to one POISON effect if eaten in the same session.,Bogswilling Piker
+37–38,Ghostjaw Steak,Gain +1 Sneak for the session.,Ghostjaw Creeper
+39–40,Gnome Biscuit,Increases Knowhow by +1 for 1 day.,Gnome Cap
+41–42,Grail Mucus Bread,1d10 Usage Die instead of 1d6.,Grail Tick Mucus
+43–44,Grouper Soup,Heal 5 Courage.,Carnivorous Grouper
+45–46,Growler Goulash,PC's voice lowers several octaves. Gain +1 Intimidate for the session.,Hatchet Toothed Growler
+47–48,Kilorat Jerky,1d8 Usage Die instead of 1d6. Heal 1 Courage.,Kilorat Tail
+49–50,King Salad Sandwich,Gain +1 Nimbleness for the session.,King Runner
+51–52,Kitchen Sink Noodles,Heal 3 Courage.,Sinkworm Tallow
+53–54,Liger Shark Filet,Gain +4 Courage for the session.,Liger Shark Jaw
+55–56,Lilyfish Sandwich,Gain +1 Perception for the session.,Spotted Lilyfish
+57–58,Liverjack Fritter,"Feeds +4 people. Heal 2 Courage, but prepare for some flatulence. -1 Sneak for a day.",Salty Liverjack
+59–60,Magmabelly Pie,Breathe fire for 1d6 Dread (plus BURNING) for 1 day.,Magmabelly Starfish
+61–62,Marbled Casserole,"Feeds +2 people, and they don't need to sleep for a night.",Marbled Leaper
+63–64,Morb Salad,Heal +2 Courage per day for the session.,Morb Bark
+65–66,Mountain Stout,Protection from disease for the session.,Mountain Hermit
+67–68,Nackadinky Jumbolaya,Gain +5 maximum Courage for the session.,Juvenile Crawlbad; Nackadinky Glittershrimp
+69–70,Nackadonkee Gumbo,Gain +1 Might for the session.,Nackadonkee Reaver
+71–72,Norga Juice,Cures PARALYZED or wakes up an UNCONSCIOUS character.,Sleeping Norga
+73–74,Quagdad Eggs,Cures WEAKENED.,Quagdad
+75–76,Reckon Brew,PC can invent a lost memory that gives insight into the situation at hand.,Reckonholly
+77–78,Roasted Frog Snapper,Jump 10' like a frog for the session.,Frog Snapper
+79–80,Roasted Skeeter Surprise,Heal +1 Courage per day for the session.,Skeeter Needle
+81–82,Rootersnoop Soup,Replenish 1 Quest Point.,Rootersnoop Trunk
+83–84,Screaming Chili,Cures DEAFENED.,Sandscreamer
+85–86,Seared Blobfish,Gain immunity to one Ensorcellment effect if eaten in the same session.,Blackrill Blobfish
+87–88,Serpent On A Stick,Heal 3 Courage.,Silt Serpent Skin
+89–90,Slipperbeak Gumbo,Cures BLINDED.,Slipperbeak
+91–92,Snapjack Patties,Breath underwater for the session.,Snapjack
+93–94,Telepathic Cola,Read one creature's thoughts within Distant range for up to 10 minutes.,Golden Oldie; Mirrorweed
+95–96,Throng Pep Tea,Cures SLOWED.,Throngweed
+97–98,Waterweevil Surprise,Cures FRIGHTENED.,Verdant Waterweevil
+99,Wharf Rambler Kabob,Replenish 2 Quest Points.,Wharf Rambler
+100,Zozo Omelet,Replenish 3 Quest Points.,Zozo Bird Egg

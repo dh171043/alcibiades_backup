@@ -1,0 +1,51 @@
+d100,name,description,recipes,found_in
+1–2,Arrowhead Angler,"Sharp-nosed, darts in the water with incredible speed.",Crafting: Angler Arrows,Used T'Be Forest
+3–4,Black Shrieker,Gaping mouth with charcoal scales and short fins. May be kept as a pet. If pulled out of water the fish shrieks. Anyone Close or Nearby must make a Vitality Check or become Deafened.,,Quagmash; Scalawag Strand
+5–6,Blackrill Blobfish,"Scowling, beady-eyed, grey speckled bottomfeeder.",Cooking: Seared Blobfish,Fleabag County
+7–8,Bog Squid,Dark purple cephalopod the size of a doggart.,Alchemy: Weapon Black,Quagmash
+9–10,Bogswilling Piker,"Long, green-bellied fish with white markings and spiny dorsal fin.",Cooking: Fried Piker,Fleabag County
+11–12,Bubble Carp,"Round, orange carp with flowing yellow fins.",Cooking: Bubble Carp Tea,River Country
+13–14,Carnivorous Grouper,"Suction-mouthed, maroon fish with sharp teeth.",Cooking: Grouper Soup,Drippy Downs
+15–16,Dancing Razorfin,Sharp-finned with blue and yellow coloration.,Crafting: Razorfin Rapier,Drippy Downs
+17–18,Deep Quag Devil,"Huge, toothy, purple and black fish with glowing red eyes.",Crafting: Deep Quag Devil Armor,Quagmash
+19–20,Dwimmerscale Shad,Shimmering scales that twinkle like silver in the water.,Crafting: Dwimmerscale Shield,River Country
+21–22,Emerald Sharpfin,Brilliant green with a shark-like dorsal fin.,Crafting: Sharpfin Armor,Fleabag County; Scalawag Strand
+23–24,Flying Deathray,"Small, leaping carnivore with fluorescent red and green scales. May be kept as a pet. Ranged Attack: Launch the flying deathray at an Adversary, inflicting 1d12 Dread.",,Quagmash
+25–26,Freshwater Fireback,Orange with red streaks and jagged fins.,Cooking: Fireback Stew,Fleabag County; River Country
+27–28,Frog Snapper,"Frog-faced, green and blue fish that leaps onto the shore.",Cooking: Roasted Frog Snapper,Drippy Downs
+29–30,Ghostjaw Creeper,"White, glowing fish with a very pronounced underbite.",Cooking: Ghostjaw Steak,Fleabag County; Scalawag Strand
+31–32,Glowing Toad Shrimp,"Green, glowing shrimp with long legs.",Crafting: Glowing Tool,Drippy Downs
+33–34,Golden Oldie,A gold fish with gleaming scales that sells for Gold Coins to Big Fame Hunters.,Cooking: Telepathic Cola,River Country
+35–36,Hand Biter,"Aggressive, fanged fish with purple and white scales",Cooking: Biter Bisque,Fleabag County; Used T'Be Forest
+37–38,Hatchet Toothed Growler,"Brown-spotted, with powerful jaws and jowls like a dog.",Cooking: Growler Goulash,Used T'Be Forest
+39–40,Juvenile Crawlbad,"Young, magenta crawfish the size of a fox.","Cooking: Boiled Crawlbad, Nackadinky Jumbolaya",Quagmash; River Country
+41–42,King Runner,Majestic golden fish with flowing purple fins like plumes.,Cooking: King Salad Sandwich,Fleabag County; Used T'Be Forest
+43–44,Luminous Mungfish,"Bright, glowing, big-eyed, custard yellow fish.",Cooking: Blackened Mungfish,Drippy Downs; Scalawag Strand
+45–46,Magmabelly Starfish,Flourescent red with streaks of black.,Cooking: Magmabelly Pie,Drippy Downs; Scalawag Strand
+47–48,Man-Eating Warbler,Huge turquoise stalker that hisses in the water.,Cooking: Dried Warbler Sticks,Quagmash; Scalawag Strand
+49–50,Marbled Leaper,Rotund yellow fish with a stout tail.,Cooking: Marbled Casserole,Drippy Downs; River Country
+51–52,Nackadinky Glittershrimp,Prismatic shrimp that glows like a lantern for 1 day.,Cooking: Nackadinky Jumbolaya,Fleabag County; River Country
+53–54,Nackadinky Gold Duster,Hulking bottomfeeder with frilly eyebrows. Has a 1-in-6 chance of yielding Gold Coins,,River Country
+55–56,Nackadonkee Reaver,"A blue, shimmering fish with a big underbite.",Cooking: Nackadonkee Gumbo,Quagmash; River Country
+57–58,Narrow Slimer,"Greasy, eel-like, yellow noodle fish.",Alchemy: Crazy Grease,Used T'Be Forest
+59–60,Narsquall,Shimmering white with a spiral horn.,Crafting: Spiraled Main Gauche,Scalawag Strand
+61–62,Quagdad,"Mud-loving, blue crawdads with one big pincer.",Cooking: Quagdad Eggs,Quagmash
+63–64,Rill Master,Large green fish with a rainbow of color streaking its tail. Yields a random Mundane item.,,Fleabag County; River Country
+65–66,Salty Liverjack,"An oily, grey fish that tastes fried whether it was or not.",Cooking: Liverjack Fritter,Drippy Downs; Scalawag Strand; Used T'Be Forest
+67–68,Sandscreamer,"Trumpet-shaped, burrower fish with red eyes.",Cooking: Screaming Chili,Scalawag Strand; Used T'Be Forest
+69–70,Scumeater,"A circular-mouthed, green fish with lots of teeth. May be kept as a pet and eats anything.",,Fleabag County; Quagmash
+71–72,Shifty Bootmouth,A brown fish camouflaged so well it looks like a boot.,Alchemy: Transmogrifying Potion,Used T'Be Forest
+73–74,Sleeping Norga,A deep blue eel with droopy eyes and long lower teeth.,Cooking: Norga Juice,Drippy Downs; Used T'Be Forest
+75–76,Slipperbeak,A brown bottom feeder with a duck's bill.,Cooking: Slipperbeak Gumbo,Scalawag Strand
+77–78,Snapjack,Bright green with streaks of orange and a mouth full of needle teeth.,Cooking: Snapjack Patties,River Country
+79–80,Sour Keisterclam,"A muddy, green clam that smells a little off.",Alchemy: Bottled Creep Thistle,Fleabag County; Scalawag Strand
+81–82,Speckled Reacher,Silvery narrow fish with wing-like fins.,Alchemy: Charm Potion,Used T'Be Forest
+83–84,Spongey Wheeler,"Long, flat fish with a sponge-like belly. Its skin makes a substitute for bandages in a pinch.",Crafting: Spongey Bandages,Used T'Be Forest
+85–86,Spotted Lilyfish,A flower-shaped fish with flowing fins.,Cooking: Lilyfish Sandwich,Drippy Downs; Fleabag County
+87–88,Star Moss,"Slow-moving, mossy creature.",Alchemy: Potion of Water Breathing,Quagmash
+89–90,Sting Whistler,A spiny violet fish with a long snout.,Alchemy: Poison Resistance Potion,Quagmash
+91–92,Verdant Waterweevil,Bright green wormy crustacean.,Cooking: Waterweevil Surprise,Drippy Downs
+93–94,Wharf Rambler,"A large, meaty fish with oily yellow and red scales.",Cooking: Wharf Rambler Kabob,River Country; Scalawag Strand
+95–96,Whiskered Gentleman,"A large, somehow more dignified catfish.",Cooking: Filleted Gentleman,Used T'Be Forest
+97–98,Wire Worm,"Magenta worm with hard, razor-sharp spines that glint like steel.",Crafting: Wire Worm Saw,Drippy Downs
+99–100,Wyrmfish,"Long-tailed, blue-green with large prominent scales.",Crafting: Wyrmfish Scale Mail,Quagmash

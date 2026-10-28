@@ -1,0 +1,51 @@
+d100,name,description,recipes,found_in
+1–2,Ashblossom,Grey petals with ashy pollen. Provides protection from malevolent ghosts for 1 hour (they won't attack).,Alchemy: Mask Potion,Used T'Be Forest
+3–4,Blackburr,"Black, thorny brambles that can be used like caltrops.",Alchemy: Petrification Potion; Crafting: Outrider's Cloak,Fleabag County
+5–6,Blackscar,Black weed with red flowers that grows in cracks and fissures.,Alchemy: Black Poison,Fleabag County; Used T'Be Forest
+7–8,Bogflower,"Pinkish red blooms with big, wide green leaves that flourish in muck.",Alchemy: Waking Potion; Cooking: Bogflower Tea,Quagmash
+9–10,Bogsnap Ichor,"Viscous, gooey yellow slime from a bogsnap's gullet.",Alchemy: Tranquilizing Poison,Quagmash
+11–12,Candlebloom,Candle-shaped flower with a white stock and red pollen.,"Alchemy: Cantrip Potion, Frost Resistance Potion",Fleabag County; Scalawag Strand
+13–14,Clunchweed,"Very long, flexible purple vines, strong enough to make good rope when braided.",Alchemy: Shrubling Powder,Quagmash
+15–16,Creep Thistle,Extremely fast-growing thorny vine with tiny black blooms.,Alchemy: Bottled Creep Thistle; Crafting: Magnificent Climbing Gloves,Fleabag County; Used T'Be Forest
+17–18,Crimsonhook,"Red, hook-shaped flower with hollow stock.",Alchemy: Hex Powder; Crafting: Crimsonhook Caltrops,Quagmash
+19–20,Darkshroom,Black mushroom with purple spots. Ingesting makes someone sick for 1d4 days.,Alchemy: Shadow Walk Potion,Quagmash
+21–22,Doohagenberry,Deep red clutch of juicy berries that taste like cherries.,"Alchemy: Bravery Potion, Courage Potion",Drippy Downs; Fleabag County; River Country
+23–24,Dragon Lily,Rigid reeds with transparent petals like wings. Has a vibrant taste.,Alchemy: Dragon Scale Potion; Cooking: Dragon Spice Donut,River Country; Scalawag Strand
+25–26,Dreamwake,Velvety leaves and violet petals with a nutty taste.,"Alchemy: Invisible Ink, Waking Potion; Cooking: Dreamwake Tea",River Country
+27–28,Dryad's Beard,"Long, stringy green moss that hangs from tree trunks.",Alchemy: Lifebringer Salve,Drippy Downs; River Country
+29–30,Dweorgbane,"Blue, stinking weed with white penny-sized flowers.",Alchemy: Silence Powder; Cooking: Dweorg Cheese,Drippy Downs; Fleabag County
+31–32,Dwimmerseed,Prismatic seed dropped by beamkin.,Alchemy: Cantrip Potion,Drippy Downs
+33–34,Elder Root,"Stout, bulbous, dirt-encrusted root that grows deep in the earth.",Alchemy: Arming Potion; Cooking: Elder Root Beer; Crafting: Wyrmtail Rope,Drippy Downs
+35–36,Emberkiss,Fiery-orange flower with misty pollen. Ingesting heals 1 Courage.,"Alchemy: Liquid Fire, Fire Resistance Potion",River Country; Scalawag Strand
+37–38,Ettinsblood,Bright red sap that grows on ettinbark trees.,"Alchemy: Strong Potion, Gigantism Potion; Cooking: Ettin Blood Sausage",Drippy Downs; Used T'Be Forest
+39–40,Flinder Dust,"Light blue, glittery powder from flinderkin wings that clings to flowers.",Alchemy: Sleep Powder,Quagmash
+41–42,Glittermoss,Blue moss that shimmers in the moonlight. Reveals invisible or hidden creatures if sprinkled on them.,"Alchemy: Seeing Potion, True Aim Potion",Quagmash; Scalawag Strand
+43–44,Gloomweed,Grey weeds with black leaves that emanate a wispy gloom.,Alchemy: Ghost Speech Potion,Quagmash
+45–46,Gnome Cap,Mushroom that almost looks like a tiny gnome with a pointy red cap.,"Alchemy: Animal Speech Potion, Cantrip Potion; Cooking: Gnome Biscuit",Drippy Downs; River Country
+47–48,Gorg Nettle,Large green nettle with sticky poisonous sap.,Alchemy: Green Poison,Used T'Be Forest
+49–50,Itch Thicket,"Light, bushy plume of itch-inducing, teal weeds.","Alchemy: Itching Powder, Tickle Powder",Used T'Be Forest
+51–52,Melding Root,"A wet, spongy orange root. Can replace another herb in a recipe.",Alchemy: Sticky Glue,Drippy Downs
+53–54,Mirrorweed,Fronds that reflect almost as clearly as a mirror. Flammable sap.,Alchemy: Seeing Potion; Cooking: Telepathic Cola,Scalawag Strand
+55–56,Mountain Hermit,A mushroom with a cap like a scrunched face.,Alchemy: Shrubling Powder; Cooking: Mountain Stout,Drippy Downs
+57–58,Muckroot,"A webby root with small, heart-shaped leaves.","Alchemy: Sustaining Potion, Poison Antidote; Crafting: Spongey Bandages",Fleabag County; Quagmash
+59–60,Orchsnout,A stout green mushroom with two holes in the cap. Highly prized by orches for luck.,Alchemy: Sniffing Potion,Quagmash; River Country
+61–62,Owl Tongue,"A white, flute-shaped flower with a long pink stigma.",Alchemy: Animal Speech Potion,Used T'Be Forest
+63–64,Quagmoss,Muddy brown moss that smells like bread. Can be used as a spice to automatically succeed on a Cooking Check.,Alchemy: Potion of Water Breathing,Quagmash
+65–66,Reckonholly,A white and red flower with pointy leaves that only grows near rivers.,Alchemy: Mimic Potion; Cooking: Reckon Brew,River Country
+67–68,Rivergold,Golden yellow aquatic flower that grows on kelp-like stalks. Can be used as a spice to gain Advantage on a Cooking Check.,Alchemy: Stupefying Powder,River Country; Scalawag Strand
+69–70,Rot Vine,"Sulfurous, grey-green vine with oozing bulbs.","Alchemy: Digesting Powder, Transmogrifying Potion",Fleabag County; Scalawag Strand
+71–72,Silfren Flower,"Jade-colored vine with silvery, foil-like flowers. [valuable]","Alchemy: Lightfoot Potion, Tickle Powder",River Country; Scalawag Strand
+73–74,Skyflower,Sky blue with wide petals that stretch out towards the sun.,"Alchemy: Flight Potion, Springheel Potion",Fleabag County; Scalawag Strand
+75–76,Songbloom,Large flower that hums when wind touches its petals. Consume: Grants -1 Defense against evil Adversaries for 1 hour.,Alchemy: Charm Potion,Drippy Downs; Scalawag Strand
+77–78,Spiritbloom,Golden flower that only grows on the graves of fallen heroes. Consume: Increase Courage permanently by +1 (can only be done once).,"Alchemy: Ghost Speech Potion, Lifebringer Salve",Used T'Be Forest
+79–80,Stickercloud,"Spikey, tough hay-colored bush.",Alchemy: Blinding Powder; Crafting: Prickly Leather Bracers,Drippy Downs
+81–82,Sticky Wickle Vines,"Green vines with red thorns, as strong as barbed wire.","Alchemy: Stupefying Powder; Crafting: Magnificent Fishing Rod, Sticker Snare",Scalawag Strand; Used T'Be Forest
+83–84,Throngweed,"Curly, black, thorny bramble that grows in huge stretches.",Alchemy: Poison Resistance Potion; Cooking: Throng Pep Tea,Fleabag County
+85–86,Troll Bark,Green or brown lichen that looks like fur.,Alchemy: Sustaining Potion; Crafting: Troll Armor,Drippy Downs
+87–88,Underblossom,"Poisonous, pale blue flower that grows in lightless conditions.",Alchemy: Petrification Potion,Fleabag County; Scalawag Strand
+89–90,Weeping Ichor,Sticky translucent sap that grows on infected trees.,Alchemy: Tranquilizing Poison,Fleabag County
+91–92,Weorg's Eye,Red flower bulb with black pollen. Glows bright red in the dark like a weorg's eye.,Alchemy: Cowl of the Pack Potion,Used T'Be Forest
+93–94,Whisperleaf,"Dark green, star-shaped leaf that flies on the wind indefinitely. One can whisper a message to the leaf and blow it on the wind to a random recipient.",Alchemy: Thought Powder,River Country
+95–96,Whiteflame,White flower that burns at the touch.,Alchemy: Frost Resistance Potion; Crafting: Dozing Arrow,Used T'Be Forest
+97–98,Witchweed,"Grey, wispy tufts of grass. Prized by witches.","Alchemy: Cursebreaker Potion, Hex Powder",Quagmash; Used T'Be Forest
+99–100,Wyrmtail Vine,"Poisonous, narrow, thorny vine. Used as poison by Felmog assassins.",Alchemy: Liquid Fire; Crafting: Wyrmtail Rope,River Country

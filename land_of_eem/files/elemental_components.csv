@@ -1,0 +1,37 @@
+d66,name,description,recipes,found_in
+11,Adamant,"Diamond-like, shimmering silver ore, cool to the touch.",Magnificent Trait: [sturdy]; Crafting: Helm of the Great Stag,Drippy Downs; Used T'Be Forest
+12,Bloodpebble,Deep red volcanic ore that feels warm.,Magnificent Trait: [crushing],Drippy Downs; Used T'Be Forest
+13,Bogril Bronze Leaf,Pliable bronze metal with a green patina,Magnificent Trait: [lucky],Fleabag County; Quagmash
+14,Bugbear Metal,"Blackened grey, hardy metal.","Magnificent Trait: [cleave]; Crafting: Bugbear Greatsword, Thunderhorn Pauldrons",Quagmash; River Country
+15,Bunglewood,"Dense, durable golden-brown hardwood.","Magnificent Trait: [trip]; Crafting: Pocket Bow, Gatorbird Sickles",Fleabag County; Quagmash; River Country
+16,Cumberstone,"Heavy, blue, marbled rock with flecks of black.",Magnificent Trait: [hefty]; Crafting: Ramgore Hammer,Fleabag County; Used T'Be Forest
+21,Deep Chasm Gem,Dark purple with flecks of brilliant blue.,"Magnificent Trait: [finbane] +1 Attack and +2 Dread underwater. Bladed, Polearm.",Scalawag Strand
+22,Dunhamite Chip,"Orange, sturdy crystalline shards.",Magnificent Trait: [stalwart]; Crafting: Kaleidoscorpion Flail,Fleabag County; River Country
+23,Dwimmersteel,Sparkling silver steel that faintly hums.,Magnificent Trait: [trusty]; Crafting: Dazzling Silver Ring,Fleabag County; Quagmash
+24,Featherflint,Incredibly lightweight amorphous blue metal.,"Magnificent Traits: [light], [nimble]; Crafting: Welkin Armor",Fleabag County; River Country
+25,Felmog Iron,Deep black iron ore that forges stronger than steel.,Magnificent Trait: [exceptional]; Crafting: Tiger Bone Shield,Fleabag County; Used T'Be Forest
+26,Garganite Chip,White streaked shard of durable grey mineral.,"Magnificent Traits: [beastly], [repellent]; Crafting: Koogra Axe",Scalawag Strand; Used T'Be Forest
+31,Glassbeam,"Glassy, white petrified wood.","Magnificent Trait: [mirrored]; Crafting: Crimsonhook Caltrops, Starfell Spyglass",Quagmash; River Country
+32,Glimmering Whetstone,Color shifts between glimmering pink and blue.,Grants a weapon +2 Dread for the session. 1d8 Usage Die.,River Country; Scalawag Strand
+33,Goblin Alloy,"Rusty, dark copper metal flecked with imperfections.","Magnificent Trait: [quick]; Crafting: Garish Amulet, Liger Shark Helm, Sticker Snare",Fleabag County; Used T'Be Forest
+34,Gold Ore,Shimmering gold nugget.,"Magnificent Trait: [precious]; Crafting: Glittering Gold Ring, Highborn Pendant",Drippy Downs; River Country
+35,Greyglitter Ore,"Grey iron with flecks of brilliant, glittering crystal.","Magnificent Trait: [hardy]; Crafting: Highborn Pendant, Thieves' Tools",Drippy Downs; Used T'Be Forest
+36,Huxwood,"Irregular, curling wood with greenish bark.","Magnificent Trait: [true]; Crafting: Hookclaw Mancatcher, Canker Spear",Drippy Downs; Quagmash; Used T'Be Forest
+41,Inkvale Iron,Dark purple and glows slightly in darkness.,Magnificent Trait: [wicked]; Alchemy: Invisibility Potion,Fleabag County; Used T'Be Forest
+42,Ironwold Root,"Surprisingly light and sturdy, greyish yellow.",Magnificent Trait: [accurate]; Alchemy: True Aim Potion; Crafting: Yowljack Bow,Quagmash; River Country
+43,Juggernite Chip,"Heavy, jagged shard of dark orange stone.",Magnificent Trait: [charge],Drippy Downs; Used T'Be Forest
+44,Mountain Tooth,"Red, hard square-shaped metal.",Magnificent Trait: [grim]; Crafting: Crag Scale Boots,Drippy Downs; Used T'Be Forest
+45,Nyad Sandstone,"Rough, sandy stone that is very light.",Gain Advantage on a Tinker Check to repair an item. 1d6 Usage Die.,Quagmash; Scalawag Strand
+46,Ocean Gum,Pink and red substance like clay.,Reduce Materials needed for a Crafting recipe by 2. 1d6 Usage Die.,Scalawag Strand
+51,Oily Wardstone,"White, blue-flecked slippery smooth stone.",Magnificent Trait: [parry],Fleabag County; River Country
+52,Orch Iron,Green-hued iron with knots of rust color.,Magnificent Trait: [slash]; Crafting: Orch Iron Halberd,Fleabag County; Quagmash
+53,Quagbirch,White-grey wood with a knobby surface.,Magnificent Trait: [trip]; Crafting: Magnificent Fishing Rod,Fleabag County; Quagmash
+54,Roggle Rock,Lime-green ore with veins of white.,Magnificent Trait: [superb],Drippy Downs; Scalawag Strand
+55,Saltstone,"White, sandy substance that helps break down parts.","When salvaging an item (2 Slots or more), add +1d6 to the Materials reclaimed. 1d6 Usage Die.",Scalawag Strand
+56,Shadow Gem,Black gem that catches no light.,"Magnificent Trait: [cloaked] item is undetectable when hidden on PC. Bladed, Tool.",Drippy Downs; Scalawag Strand
+61,Starfell Shard,"Shimmering black ore, lighter and stronger than any other metal.",Magnificent Trait: [starfell-make]; Crafting: Starfell Spyglass,Drippy Downs; Quagmash; Scalawag Strand
+62,Sunderslab Fragment,"Olive green, flat slab of heavy dense rock.",Magnificent Trait: [bonk]; Crafting: Troll Armor,Drippy Downs; Used T'Be Forest
+63,Ur Steel,"Cold, dark grey metal with a violet sheen.",Magnificent Trait: [cold steel]; Crafting: Flying Fang Daggers,River Country; Scalawag Strand
+64,Volcanite,"Black, pocked lava stone, warm to the touch.",Magnificent Trait: [mastercrafted],River Country; Scalawag Strand
+65,Weirding Gem,A prismatic gem with the colors of the rainbow.,Use to apply the Trait of another Elemental Component to a restricted weapon type.,Quagmash; Scalawag Strand
+66,Wurlwood,"Sturdy, hardened, purple-hued wood",Magnificent Trait: [reach]; Crafting: Magnificent String Instrument,Drippy Downs; River Country

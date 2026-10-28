@@ -1,0 +1,51 @@
+d100,name,description,recipes,found_in
+1–2,Bandy Clam Pearl,"Large, mucousy pinkish pearl that smells like the briny sea.",Cooking: Bandy Clam Chowder; Crafting: Garish Amulet,Scalawag Strand
+3–4,Blinking Cave Incher Ichor,"Acrid, sticky fluorescent blue spittle slime.","Alchemy: Shadow Walk Potion, Shrinking Potion",Quagmash
+5–6,Bogril Tortoise Shell,Dark green and tough as plate armor.,Crafting: Bogril Bone Shield,Quagmash; River Country
+7–8,Cairn Stinger Needle,Incredibly thin and sharp like a translucent dagger dripping with venom.,Alchemy: Green Poison,Drippy Downs; Scalawag Strand
+9–10,Cankerboar Tusks,Rotten-smelling tusks covered in grey-green gunk.,Cooking: Ettin Blood Sausage; Crafting: Canker Spear,Used T'Be Forest
+11–12,Crag Lizard Scales,"Thick and rough, like pliable rock.","Alchemy: Dragon Scale Potion; Cooking: Crag Lizard Steak; Crafting: Crag Scale Boots, Reptilian Leggings",Scalawag Strand; Used T'Be Forest
+13–14,Crawlbad Claw,"Prickly, chitinous, and razor-sharp magenta pincer.",Alchemy: Arming Potion; Cooking: Boiled Crawlbad; Crafting: Hookclaw Mancatcher,Quagmash; River Country
+15–16,Funghoul Spores,"Orangey, musty, cakey dust.",Alchemy: Sleep Powder,Quagmash
+17–18,Gelk Hide,"Tough, leathery, beautifully marbled teal hide.","Magnificent Trait: [entangle]; Crafting: Wyrmfish Scale Pauldrons, Spiked Boots",Drippy Downs
+19–20,Grail Tick Mucus,"Red, viscous liquid that tastes like candy.",Alchemy: Courage Potion; Cooking: Grail Mucus Bread,Used T'Be Forest
+21–22,Great Stag Antler,As large and sharp as a sword.,Crafting: Helm of the Great Stag,Drippy Downs
+23–24,Guardvark Bones,Rugged blue hide like sandpaper.,Alchemy: Fire Resistance Potion; Crafting: Spiraled Main Gauche,Drippy Downs; Fleabag County
+25–26,Gulliath Feathers,Huge white plumage that smells like the beach.,Alchemy: Flight Potion; Crafting: Welkin Armor,River Country; Scalawag Strand
+27–28,Guttersnail Goop,"Gooey, lime-green slime.","Alchemy: Gutter Glue, Sticky Glue",Fleabag County
+29–30,Hippogruff Hide,"Smooth grey hide with tufts of thick, orangey brown hair.","Crafting: Magnificent Swimming Pantaloons, Wooly Armor",River Country
+31–32,Jackalrabbit Fur,"Thick, warm fur with streaks of brown and white.","Alchemy: Lightfoot Potion; Crafting: Adventurer's Cape, Swiftstrike Gloves",Drippy Downs; Fleabag County; Used T'Be Forest
+33–34,Kaleidoscorpion Tail,"Constantly shifting color, to be handled with care.",Alchemy: Itching Powder; Crafting: Kaleidoscorpion Flail,Fleabag County
+35–36,Keestersnap Pincers,"Tiny, purple insect pincers.",Crafting: Magnificent Climbing Gloves,Fleabag County
+37–38,Kilorat Tail,"Ropey, brownish and coarse, covered in prickly hair.",Alchemy: Gigantism Potion; Cooking: Kilorat Jerky,Used T'Be Forest
+39–40,Koogra Claw,"Large, hooked claw the size of a boggle hand.","Crafting: Bugbear Greatsword, Koogra Axe",Used T'Be Forest
+41–42,Krowl Beak,"Small, black beak caked with dirt clods.",Crafting: Orch Iron Halberd,River Country
+43–44,Liger Shark Jaw,"Wide, hulking white jaw with rows of teeth.","Cooking: Liger Shark Filet; Crafting: Liger Shark Helm, Lucky Sharktooth Necklace",River Country; Scalawag Strand
+45–46,Merga Toad Slime,"Thick, green goopy slime that smells like farts.",Alchemy: Gutter Glue; Cooking: Caramelized Merga Slime,Quagmash; River Country
+47–48,Moppet Spider Eye,"Tar-black, speckled with a shimmery surface.",Alchemy: Cursebreaker Potion,Fleabag County
+49–50,Morb Bark,Rough hunk of yellow-green vegetable matter.,"Cooking: Morb Salad; Crafting: Rubbery Morb Shield, Troll Armor",Fleabag County; Quagmash
+51–52,Muckland Bat Wing,"Stubby, leathery bat wings with furry joints.","Alchemy: Silence Powder; Crafting: Batweave Cloak, Wingspan Cloak",Quagmash; Used T'Be Forest
+53–54,Owligator Talon,"Curled, dark glossy claw.","Crafting: Yowljack Bow, Gatorbird Sickles",Quagmash; Scalawag Strand
+55–56,Pindersnap Twinkle,Powdery yellow dust that twinkles in the light.,Alchemy: Shrinking Potion,Drippy Downs
+57–58,Plappadoot Eye,"Remarkably similar to a pale, squishy marble.",Alchemy: Hex Powder,Quagmash
+59–60,Pocket Fiddler Silk,"Tiny, thin strands of surprisingly sturdy web.","Cooking: Fiddler String Cheese; Crafting: Magnificent String Instrument, Pocket Bow, Serpentsilk Tunic",Fleabag County; Used T'Be Forest
+61–62,Quillrat Needles,Sharp spines ranging from one inch to one foot.,"Crafting: Thieves' Tools, Stabby Needle",Fleabag County
+63–64,Rack Owl Pellet,A twisted ball of bones and hair.,Alchemy: Digesting Powder,Fleabag County
+65–66,Ramgore Horns,"Heavy, huge spiraling horns with deep ribs.",Crafting: Magnificent Ramgore Hammer,Drippy Downs
+67–68,Rindle Ram Fin,"Color-shifting orange and yellow fin, about the size of an oar's paddle.",Crafting: Magnificent Swimming Pantaloons,River Country; Scalawag Strand
+69–70,Rootersnoop Trunk,A hunk of tubular pink meat without bones.,Alchemy: Sniffing Potion; Cooking: Rootersnoop Soup,Fleabag County
+71–72,Ryzophant Fang,"Long, translucent, slippery fang.",Alchemy: Invisibility Potion; Crafting: Flying Fang Daggers,River Country
+73–74,Scraggle Eye,Beady little thing with a deep yellow iris.,Alchemy: Blinding Powder,Drippy Downs
+75–76,Silt Serpent Skin,"Soft, small scales the color of muddy moss.","Cooking: Serpent On A Stick; Crafting: Reptilian Leggings, Serpentsilk Tunic",River Country; Scalawag Strand
+77–78,Singe Viper Venom,Steaming black liquid that smells like coal.,"Alchemy: Black Poison, Poison Antidote",River Country; Scalawag Strand
+79–80,Sinkworm Tallow,"Rubbery, pale with pink veins on the inside.",Cooking: Kitchen Sink Noodles; Crafting: Rubbery Morb Shield,Quagmash; Scalawag Strand
+81–82,Skeeter Needle,"Long, hollow, partially translucent needle.","Cooking: Roasted Skeeter Surprise; Crafting: Prickly Leather Bracers, Dozing Arrow",Quagmash; River Country
+83–84,Slurpworm Teeth,Razor-sharp cone-shaped teeth.,Crafting: Spiked Boots,Quagmash; Scalawag Strand
+85–86,Snagbunny Tooth,"Long, pointy, needle-like tooth.",Crafting: Snagtooth Shiv,Drippy Downs
+87–88,Thornhawk Feathers,"Large, fiery-orange and black plume, sharp to the touch.","Crafting: Wingspan Cloak, Ranger Boots",Scalawag Strand
+89–90,Thunderhorn Horn,"Hard, grooved horn the color of sandstone.",Crafting: Thunderhorn Pauldrons,Drippy Downs
+91–92,Used T'Be Tiger Bones,"Thick, sturdy, chiseled bones.","Crafting: Bogril Bone Shield, Tiger Bone Shield",Used T'Be Forest
+93–94,Warbling Trapnoodle Scat,"Bright yellow, fibrous bean shapes.","Alchemy: Mimic Potion, Mask Potion",Used T'Be Forest
+95–96,Wolf Pelt,Heavy grey pelt with thick fur.,"Alchemy: Cowl of the Pack Potion; Crafting: Batweave Cloak, Outrider's Cloak",Used T'Be Forest; Drippy Downs
+97–98,Wungalope Fur,"Thick, bushy reddish tufts of fur.","Crafting: Wooly Armor, Ranger Boots",Drippy Downs; Fleabag County
+99–100,Zozo Bird Egg,"Large, blue egg with white spots.",Alchemy: Springheel Potion; Cooking: Zozo Omelet,Used T'Be Forest

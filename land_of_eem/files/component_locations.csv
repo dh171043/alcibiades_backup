@@ -1,0 +1,289 @@
+region,component_type,slot,component
+Drippy Downs,Beast,1,Cairn Stinger Needle
+Drippy Downs,Beast,2,Gelk Hide
+Drippy Downs,Beast,3,Great Stag Antler
+Drippy Downs,Beast,4,Guardvark Bones
+Drippy Downs,Beast,5,Jackalrabbit Fur
+Drippy Downs,Beast,6,Pindersnap Twinkle
+Drippy Downs,Beast,7,Ramgore Horns
+Drippy Downs,Beast,8,Scraggle Eye
+Drippy Downs,Beast,9,Snagbunny Tooth
+Drippy Downs,Beast,10,Thunderhorn Horn
+Drippy Downs,Beast,11,Wolf Pelt
+Drippy Downs,Beast,12,Wungalope Fur
+Drippy Downs,Elemental,1,Adamant
+Drippy Downs,Elemental,2,Bloodpebble
+Drippy Downs,Elemental,3,Gold Ore
+Drippy Downs,Elemental,4,Greyglitter Ore
+Drippy Downs,Elemental,5,Huxwood
+Drippy Downs,Elemental,6,Juggernite Chip
+Drippy Downs,Elemental,7,Mountain Tooth
+Drippy Downs,Elemental,8,Roggle Rock
+Drippy Downs,Elemental,9,Shadow Gem
+Drippy Downs,Elemental,10,Starfell Shard
+Drippy Downs,Elemental,11,Sunderslab Fragment
+Drippy Downs,Elemental,12,Wurlwood
+Drippy Downs,Fish,1,Carnivorous Grouper
+Drippy Downs,Fish,2,Dancing Razorfin
+Drippy Downs,Fish,3,Frog Snapper
+Drippy Downs,Fish,4,Glowing Toad Shrimp
+Drippy Downs,Fish,5,Luminous Mungfish
+Drippy Downs,Fish,6,Magmabelly Starfish
+Drippy Downs,Fish,7,Marbled Leaper
+Drippy Downs,Fish,8,Salty Liverjack
+Drippy Downs,Fish,9,Sleeping Norga
+Drippy Downs,Fish,10,Spotted Lilyfish
+Drippy Downs,Fish,11,Verdant Waterweevil
+Drippy Downs,Fish,12,Wire Worm
+Drippy Downs,Herb,1,Doohagenberry
+Drippy Downs,Herb,2,Dryad's Beard
+Drippy Downs,Herb,3,Dweorgbane
+Drippy Downs,Herb,4,Dwimmerseed
+Drippy Downs,Herb,5,Elder Root
+Drippy Downs,Herb,6,Ettinsblood
+Drippy Downs,Herb,7,Gnome Cap
+Drippy Downs,Herb,8,Melding Root
+Drippy Downs,Herb,9,Mountain Hermit
+Drippy Downs,Herb,10,Songbloom
+Drippy Downs,Herb,11,Stickercloud
+Drippy Downs,Herb,12,Troll Bark
+Fleabag County,Beast,1,Guardvark Bones
+Fleabag County,Beast,2,Guttersnail Goop
+Fleabag County,Beast,3,Jackalrabbit Fur
+Fleabag County,Beast,4,Kaleidoscorpion Tail
+Fleabag County,Beast,5,Keestersnap Pincers
+Fleabag County,Beast,6,Moppet Spider Eye
+Fleabag County,Beast,7,Morb Bark
+Fleabag County,Beast,8,Pocket Fiddler Silk
+Fleabag County,Beast,9,Quillrat Needles
+Fleabag County,Beast,10,Rack Owl Pellet
+Fleabag County,Beast,11,Rootersnoop Trunk
+Fleabag County,Beast,12,Wungalope Fur
+Fleabag County,Elemental,1,Bogril Bronze Leaf
+Fleabag County,Elemental,2,Bunglewood
+Fleabag County,Elemental,3,Cumberstone
+Fleabag County,Elemental,4,Dunhamite Chip
+Fleabag County,Elemental,5,Dwimmersteel
+Fleabag County,Elemental,6,Featherflint
+Fleabag County,Elemental,7,Felmog Iron
+Fleabag County,Elemental,8,Goblin Alloy
+Fleabag County,Elemental,9,Inkvale Iron
+Fleabag County,Elemental,10,Oily Wardstone
+Fleabag County,Elemental,11,Orch Iron
+Fleabag County,Elemental,12,Quagbirch
+Fleabag County,Fish,1,Blackrill Blobfish
+Fleabag County,Fish,2,Bogswilling Piker
+Fleabag County,Fish,3,Emerald Sharpfin
+Fleabag County,Fish,4,Freshwater Fireback
+Fleabag County,Fish,5,Ghostjaw Creeper
+Fleabag County,Fish,6,Hand Biter
+Fleabag County,Fish,7,King Runner
+Fleabag County,Fish,8,Nackadinky Glittershrimp
+Fleabag County,Fish,9,Rill Master
+Fleabag County,Fish,10,Scumeater
+Fleabag County,Fish,11,Sour Keisterclam
+Fleabag County,Fish,12,Spotted Lilyfish
+Fleabag County,Herb,1,Blackburr
+Fleabag County,Herb,2,Blackscar
+Fleabag County,Herb,3,Candlebloom
+Fleabag County,Herb,4,Creep Thistle
+Fleabag County,Herb,5,Doohagenberry
+Fleabag County,Herb,6,Dweorgbane
+Fleabag County,Herb,7,Muckroot
+Fleabag County,Herb,8,Rot Vine
+Fleabag County,Herb,9,Skyflower
+Fleabag County,Herb,10,Throngweed
+Fleabag County,Herb,11,Underblossom
+Fleabag County,Herb,12,Weeping Ichor
+Quagmash,Beast,1,Blinking Cave Incher Ichor
+Quagmash,Beast,2,Bogril Tortoise Shell
+Quagmash,Beast,3,Crawlbad Claw
+Quagmash,Beast,4,Funghoul Spores
+Quagmash,Beast,5,Merga Toad Slime
+Quagmash,Beast,6,Morb Bark
+Quagmash,Beast,7,Muckland Bat Wing
+Quagmash,Beast,8,Owligator Talon
+Quagmash,Beast,9,Plappadoot Eye
+Quagmash,Beast,10,Sinkworm Tallow
+Quagmash,Beast,11,Skeeter Needle
+Quagmash,Beast,12,Slurpworm Teeth
+Quagmash,Elemental,1,Bogril Bronze Leaf
+Quagmash,Elemental,2,Bugbear Metal
+Quagmash,Elemental,3,Bunglewood
+Quagmash,Elemental,4,Dwimmersteel
+Quagmash,Elemental,5,Glassbeam
+Quagmash,Elemental,6,Huxwood
+Quagmash,Elemental,7,Ironwold Root
+Quagmash,Elemental,8,Nyad Sandstone
+Quagmash,Elemental,9,Orch Iron
+Quagmash,Elemental,10,Quagbirch
+Quagmash,Elemental,11,Starfell Shard
+Quagmash,Elemental,12,Weirding Gem
+Quagmash,Fish,1,Black Shrieker
+Quagmash,Fish,2,Bog Squid
+Quagmash,Fish,3,Deep Quag Devil
+Quagmash,Fish,4,Flying Deathray
+Quagmash,Fish,5,Juvenile Crawlbad
+Quagmash,Fish,6,Man-Eating Warbler
+Quagmash,Fish,7,Nackadonkee Reaver
+Quagmash,Fish,8,Quagdad
+Quagmash,Fish,9,Scumeater
+Quagmash,Fish,10,Star Moss
+Quagmash,Fish,11,Sting Whistler
+Quagmash,Fish,12,Wyrmfish
+Quagmash,Herb,1,Bogflower
+Quagmash,Herb,2,Bogsnap Ichor
+Quagmash,Herb,3,Clunchweed
+Quagmash,Herb,4,Crimsonhook
+Quagmash,Herb,5,Darkshroom
+Quagmash,Herb,6,Flinder Dust
+Quagmash,Herb,7,Glittermoss
+Quagmash,Herb,8,Gloomweed
+Quagmash,Herb,9,Muckroot
+Quagmash,Herb,10,Orchsnout
+Quagmash,Herb,11,Quagmoss
+Quagmash,Herb,12,Witchweed
+River Country,Beast,1,Bogril Tortoise Shell
+River Country,Beast,2,Crawlbad Claw
+River Country,Beast,3,Gulliath Feathers
+River Country,Beast,4,Hippogruff Hide
+River Country,Beast,5,Krowl Beak
+River Country,Beast,6,Liger Shark Jaw
+River Country,Beast,7,Merga Toad Slime
+River Country,Beast,8,Rindle Ram Fin
+River Country,Beast,9,Ryzophant Fang
+River Country,Beast,10,Silt Serpent Skin
+River Country,Beast,11,Singe Viper Venom
+River Country,Beast,12,Skeeter Needle
+River Country,Elemental,1,Bugbear Metal
+River Country,Elemental,2,Bunglewood
+River Country,Elemental,3,Dunhamite Chip
+River Country,Elemental,4,Featherflint
+River Country,Elemental,5,Glassbeam
+River Country,Elemental,6,Glimmering Whetstone
+River Country,Elemental,7,Gold Ore
+River Country,Elemental,8,Ironwold Root
+River Country,Elemental,9,Oily Wardstone
+River Country,Elemental,10,Ur Steel
+River Country,Elemental,11,Volcanite
+River Country,Elemental,12,Wurlwood
+River Country,Fish,1,Bubble Carp
+River Country,Fish,2,Dwimmerscale Shad
+River Country,Fish,3,Freshwater Fireback
+River Country,Fish,4,Golden Oldie
+River Country,Fish,5,Juvenile Crawlbad
+River Country,Fish,6,Marbled Leaper
+River Country,Fish,7,Nackadinky Glittershrimp
+River Country,Fish,8,Nackadinky Gold Duster
+River Country,Fish,9,Nackadonkee Reaver
+River Country,Fish,10,Snapjack
+River Country,Fish,11,Rill Master
+River Country,Fish,12,Wharf Rambler
+River Country,Herb,1,Doohagenberry
+River Country,Herb,2,Dragon Lily
+River Country,Herb,3,Dreamwake
+River Country,Herb,4,Dryad's Beard
+River Country,Herb,5,Emberkiss
+River Country,Herb,6,Gnome Cap
+River Country,Herb,7,Orchsnout
+River Country,Herb,8,Reckonholly
+River Country,Herb,9,Rivergold
+River Country,Herb,10,Silfren Flower
+River Country,Herb,11,Whisperleaf
+River Country,Herb,12,Wyrmtail Vine
+Scalawag Strand,Beast,1,Bandy Clam Pearl
+Scalawag Strand,Beast,2,Cairn Stinger Needle
+Scalawag Strand,Beast,3,Crag Lizard Scales
+Scalawag Strand,Beast,4,Gulliath Feathers
+Scalawag Strand,Beast,5,Liger Shark Jaw
+Scalawag Strand,Beast,6,Owligator Talon
+Scalawag Strand,Beast,7,Rindle Ram Fin
+Scalawag Strand,Beast,8,Silt Serpent Skin
+Scalawag Strand,Beast,9,Singe Viper Venom
+Scalawag Strand,Beast,10,Sinkworm Tallow
+Scalawag Strand,Beast,11,Slurpworm Teeth
+Scalawag Strand,Beast,12,Thornhawk Feathers
+Scalawag Strand,Elemental,1,Deep Chasm Gem
+Scalawag Strand,Elemental,2,Garganite Chip
+Scalawag Strand,Elemental,3,Glimmering Whetstone
+Scalawag Strand,Elemental,4,Nyad Sandstone
+Scalawag Strand,Elemental,5,Ocean Gum
+Scalawag Strand,Elemental,6,Roggle Rock
+Scalawag Strand,Elemental,7,Saltstone
+Scalawag Strand,Elemental,8,Shadow Gem
+Scalawag Strand,Elemental,9,Starfell Shard
+Scalawag Strand,Elemental,10,Ur Steel
+Scalawag Strand,Elemental,11,Volcanite
+Scalawag Strand,Elemental,12,Weirding Gem
+Scalawag Strand,Fish,1,Black Shrieker
+Scalawag Strand,Fish,2,Emerald Sharpfin
+Scalawag Strand,Fish,3,Ghostjaw Creeper
+Scalawag Strand,Fish,4,Luminous Mungfish
+Scalawag Strand,Fish,5,Magmabelly Starfish
+Scalawag Strand,Fish,6,Man-Eating Warbler
+Scalawag Strand,Fish,7,Narsquall
+Scalawag Strand,Fish,8,Salty Liverjack
+Scalawag Strand,Fish,9,Sandscreamer
+Scalawag Strand,Fish,10,Slipperbeak
+Scalawag Strand,Fish,11,Sour Keisterclam
+Scalawag Strand,Fish,12,Wharf Rambler
+Scalawag Strand,Herb,1,Candlebloom
+Scalawag Strand,Herb,2,Dragon Lily
+Scalawag Strand,Herb,3,Emberkiss
+Scalawag Strand,Herb,4,Glittermoss
+Scalawag Strand,Herb,5,Mirrorweed
+Scalawag Strand,Herb,6,Rivergold
+Scalawag Strand,Herb,7,Rot Vine
+Scalawag Strand,Herb,8,Silfren Flower
+Scalawag Strand,Herb,9,Skyflower
+Scalawag Strand,Herb,10,Songbloom
+Scalawag Strand,Herb,11,Sticky Wickle Vines
+Scalawag Strand,Herb,12,Underblossom
+Used T'Be Forest,Beast,1,Cankerboar Tusks
+Used T'Be Forest,Beast,2,Crag Lizard Scales
+Used T'Be Forest,Beast,3,Grail Tick Mucus
+Used T'Be Forest,Beast,4,Jackalrabbit Fur
+Used T'Be Forest,Beast,5,Kilorat Tail
+Used T'Be Forest,Beast,6,Koogra Claw
+Used T'Be Forest,Beast,7,Muckland Bat Wing
+Used T'Be Forest,Beast,8,Pocket Fiddler Silk
+Used T'Be Forest,Beast,9,Used T'Be Tiger Bones
+Used T'Be Forest,Beast,10,Warbling Trapnoodle Scat
+Used T'Be Forest,Beast,11,Wolf Pelt
+Used T'Be Forest,Beast,12,Zozo Bird Egg
+Used T'Be Forest,Elemental,1,Adamant
+Used T'Be Forest,Elemental,2,Bloodpebble
+Used T'Be Forest,Elemental,3,Cumberstone
+Used T'Be Forest,Elemental,4,Felmog Iron
+Used T'Be Forest,Elemental,5,Garganite Chip
+Used T'Be Forest,Elemental,6,Goblin Alloy
+Used T'Be Forest,Elemental,7,Greyglitter Ore
+Used T'Be Forest,Elemental,8,Huxwood
+Used T'Be Forest,Elemental,9,Inkvale Iron
+Used T'Be Forest,Elemental,10,Juggernite Chip
+Used T'Be Forest,Elemental,11,Mountain Tooth
+Used T'Be Forest,Elemental,12,Sunderslab Fragment
+Used T'Be Forest,Fish,1,Arrowhead Angler
+Used T'Be Forest,Fish,2,Hand Biter
+Used T'Be Forest,Fish,3,Hatchet Toothed Growler
+Used T'Be Forest,Fish,4,King Runner
+Used T'Be Forest,Fish,5,Narrow Slimer
+Used T'Be Forest,Fish,6,Salty Liverjack
+Used T'Be Forest,Fish,7,Sandscreamer
+Used T'Be Forest,Fish,8,Shifty Bootmouth
+Used T'Be Forest,Fish,9,Sleeping Norga
+Used T'Be Forest,Fish,10,Speckled Reacher
+Used T'Be Forest,Fish,11,Spongey Wheeler
+Used T'Be Forest,Fish,12,Whiskered Gentleman
+Used T'Be Forest,Herb,1,Ashblossom
+Used T'Be Forest,Herb,2,Blackscar
+Used T'Be Forest,Herb,3,Creep Thistle
+Used T'Be Forest,Herb,4,Ettinsblood
+Used T'Be Forest,Herb,5,Gorg Nettle
+Used T'Be Forest,Herb,6,Itch Thicket
+Used T'Be Forest,Herb,7,Owl Tongue
+Used T'Be Forest,Herb,8,Spiritbloom
+Used T'Be Forest,Herb,9,Sticky Wickle Vines
+Used T'Be Forest,Herb,10,Weorg's Eye
+Used T'Be Forest,Herb,11,Whiteflame
+Used T'Be Forest,Herb,12,Witchweed
