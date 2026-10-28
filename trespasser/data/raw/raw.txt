@@ -1,0 +1,217 @@
+Biting Strike Light
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Hit Deal $ damage. Confer weak 2.
+Spark Confer weak 4 instead.
+Cleave Light
+MELEE ATTACK VS. GUARD | 2 CREATURES
+Hit Deal $$ damage.
+Spark Confer weapon effect.
+Knock Back Light
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Hit Deal $$ damage. Push 2.
+Spark Confer toppled.
+Shared Confidence Light
+INNATE SUPPORT VS. 10 | BURST 6
+Gain fortified 2; or confer it to an ally
+hit
+in the area of effect.
+spark You can do both.
+Demand Attention Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+base Deal $$ damage.
+Hit Shove 2 or drag 2. Confer provoked 2.
+Draw Back Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+base Deal $$ damage.
+Hit Drag 2. Gain guarded 2.
+Fearless Advance Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Shove 2. Gain accurate 2.
+Hammer ing Blow Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $ damage. Push 4.
+Hit Add $ damage. Push 6 instead.
+Spark Push 8 instead. Confer toppled.
+Iron Sweep Heavy
+MELEE ATTACK VS. GUARD | MELEE BURST
+Base Deal $$ damage.
+Hit Confer weapon effect.
+Leaping Strike Heavy
+MELEE ATTACK VS. GUARD | SPECIAL
+Jump 4. Then make the attack against each
+Base
+creature in a melee burst.
+Hit Deal $$ damage.
+Spark Confer weapon effect.
+Maim Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Add $ damage. Confer weak 4.
+Passing Slash Heavy
+MELEE ATTACK VS. GUARD | SPECIAL
+Jump 4. You target one creature you pass
+Before
+through.
+Base Deal $$ damage.
+Hit Confer weapon effect.
+- 132 -
+Pommel Strike Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Confer unguarded 2.
+The target also loses  at the start of its next
+Spark
+turn.
+Seek Blood Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Confer bleeding 4. Then push 2.
+Topple Heavy
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Add $ damage. Confer toppled 4.
+Whirlwind Strike Heavy
+MELEE ATTACK VS. GUARD | MELEE BURST
+Base Deal $ damage.
+Hit Add $ damage. Push 2.
+Spark Confer toppled 2.
+Iron Tempest Mighty
+MELEE ATTACK VS. GUARD | MELEE BURST
+Base Deal $$ damage.
+Hit Push 2 and confer toppled 2.
+Spark Push 4 and confer toppled 4 instead.
+Shatter Defenses Mighty
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Deal $ damage. For the rest of the encounter,
+Base
+the target has -1 penalty to guard and resist.
+Hit Add $ damage. It takes a -2 penalty instead.
+Spark Add $ damage. It takes a -3 penalty instead.
+Staggering Smite Mighty
+MELEE ATTACK VS. GUARD | 1 CREATURE
+Base Deal $$ damage.
+Hit Add $$ damage. Confer staggered 6.
+- 133 -
+Blood
+You study biological applications of magic, manipulating
+the very essence of life that runs in the veins of living
+creatures. When used benevolently, your magic can
+restore vitality and cure disease. When used for ill
+purposes, it is among the greatest profanities of nature.
+Most blood deeds have the spell keyword, meaning they
+must be used with a bare hand or an implement, such as a
+wand, rod, or staff. Practitioners of blood magic excel at
+restoring hit points, but unlike other healers, they do not
+grant recoveries, instead restoring hit points directly
+from the damage they deal.
+Key Attribute: Might
+Your magic is drawn from your own living essence.
+When you take up Blood as your first craft, set your key
+attribute to MIGHT. When you take it up at higher levels,
+you may choose to change it to MIGHT or keep it the same.
+Blood Manipulation
+Owing to your control over the living essence, you can
+create original effects using yours and other creatures'
+blood as a basis. By focusing your power, you can detect
+the heart rate of other creatures, speed or slow your own
+heart rate, raise or lower your body temperature, or create
+other blood-related effects at the discretion of the Judge.
+When you test the limits of your abilities with this
+feature, the Judge may call for a MIGHT | MAGIC check to
+determine the efficacy.
+Life Affinity
+Your study of lifeblood empowers your magic. When you
+make a casting check for any incantation or ritual that
+involves manipulating blood or affecting the energy of
+life by some other means, gain an extra spark.
+Random blood Deeds
+1 Blood Gift
+light 2 Incision
+d4 3 Leech
+4 Run Cold
+1 Blood Mist
+2 Boiling Blood
+3 Crimson Lash
+heavy 4 Exsanguinate
+d8 5 Humoral Shift
+6 Mass Wounds
+7 Sanguine Veil
+8 Transfusion
+1 Arterial Font
+mighty
+2 Blood Puppet
+d3
+3 Hematic Pulse
+- 134 -
+Blood Gift Light
+SPELL SUPPORT VS. 10 | BURST 6
+Deal % damage to yourself. Restore that many hit
+Base points, divided as you choose, to other creatures
+in the area of effect.
+Hit Deal %% damage to yourself instead.
+Incision Light
+VERSATILE ATTACK VS. GUARD | 1 CREATURE
+Hit Deal $ damage. Confer bleeding 2.
+Spark Confer bleeding 4 instead.
+Leech Light
+SPELL ATTACK VS. RESIST | 1 CREATURE
+Hit Deal %% damage.
+Restore hit points equal to half the damage dealt
+Spark
+to a creature in spell range.
+Run Cold Light
+SPELL ATTACK VS. RESIST | BLAST 2
+Hit Deal % damage.
+Spark Confer inaccurate 2.
+Blood Mist Heavy
+SPELL ATTACK VS. 10 | BLAST 4
+Gain blood mist 4, a state controlling a light
+cloud in the area of effect. While inside,
+Base
+creatures regain INTENSITY extra hit points
+whenever they regain hit points.
+Hit Deal %% damage.
+Allies in the area regain hit points equal to half
+Spark
+the damage dealt (plus blood mist).
+Boiling Blood Heavy
+SPELL ATTACK VS. RESIST | 1 CREATURE
+Base Deal %% damage.
+Confer berserk 1. On its turn, the affected
+creature must attempt a light attack deed
+Hit against the nearest creature before doing
+anything else, moving if needed. Then this state
+loses 1 INTENSITY.
+Crimson lash Heavy
+SPELL ATTACK VS. GUARD | CLOSE PATH 6
+Base Deal %% damage.
+Hit Confer bleeding 4.
+Spark Sweep 2.
+Exsanguinate Heavy
+SPELL ATTACK VS. GUARD | 1 CREATURE
+Base Deal %%% damage.
+Restore hit points equal to the damage roll, divided
+Hit
+as you choose among creatures within spell range.
+Humoral Shift Heavy
+SPELL ATTACK VS. RESIST | 1 CREATURE
+If you target yourself or an ally with this deed,
+Special
+treat it as a SPELL SUPPORT VS. 10.
+Choose one state affecting the target that has
+Base an opposite state. Change it to the opposite
+state, keeping the same INTENSITY.
+Hit Add +1 INTENSITY to the changed state.
+Spark Add +1 INTENSITY to the changed state.
+Mass Wounds Heavy
+SPELL ATTACK VS. GUARD | CLOSE BLAST 3
+Base Deal %%% damage.
+Hit Confer bleeding 4.
+Sanguine Veil Heavy
+SPELL SUPPORT VS. 10 | PERSONAL
+Gain sanguine veil 4. Whenever an ally within
+Base spell range suffers attack damage, you may
+redirect INTENSITY of that damage to you.
+Hit Gain sanguine veil 6 instead.
+- 135 -
